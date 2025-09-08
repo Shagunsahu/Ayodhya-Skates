@@ -18,7 +18,7 @@ import galleryImage1 from '@/assets/gallery/image1.jpg';
 import galleryImage2 from '@/assets/gallery/image2.jpg';
 import galleryImage3 from '@/assets/gallery/image3.jpg';
 import galleryImage4 from '@/assets/gallery/image4.jpg';
-import newspaperPlaceholder from '@/assets/gallery/newspaper/image1.jpg';
+import newspaperPlaceholder from '@/assets/gallery/newspaper/image1.JPG';
 // ... add more images as needed
 
 // Define the type for the gallery images
