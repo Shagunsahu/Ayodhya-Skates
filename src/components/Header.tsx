@@ -45,7 +45,7 @@ const Header: React.FC = () => {
         href: '#join',
         subItems: [
             { name: 'JoinUs', href: '/join-us' },
-            { name: 'Events', href: '/join-us#events' },
+            { name: 'Events', href: '/events' },
             { name: 'Sponsorship', href: '/join-us#sponsorship' },
         ]
     },

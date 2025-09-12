@@ -5,10 +5,10 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Award, Medal, Globe, Trophy, Star } from 'lucide-react';
 // Import some placeholder images for the photos section
-import achievementPhoto1 from '@/assets/gallery/image1.JPG'; 
-import achievementPhoto2 from '@/assets/gallery/image2.JPG';
-import achievementPhoto3 from '@/assets/gallery/image3.JPG';
-import achievementPhoto4 from '@/assets/gallery/image4.JPG';
+import achievementPhoto1 from '@/assets/gallery/image1.jpg'; 
+import achievementPhoto2 from '@/assets/gallery/image2.jpg';
+import achievementPhoto3 from '@/assets/gallery/image3.jpg';
+import achievementPhoto4 from '@/assets/gallery/image4.jpg';
 // Define data types for the page content
 interface StatItem {
   icon: React.ElementType;

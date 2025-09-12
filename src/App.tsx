@@ -13,6 +13,7 @@ import ContactUs from "./pages/contact";
 import AboutUs from "./pages/About-us";  
 import OurServices from "./pages/our-services";  
 import Gallery from "./pages/Gallery"; 
+import Events from "./pages/events";
 const queryClient = new QueryClient();
 
 const App = () => (
@@ -32,6 +33,7 @@ const App = () => (
            <Route path="/About-us" element={<AboutUs />} />
             <Route path="/our-services" element={<OurServices />} />
             <Route path="/Gallery" element={<Gallery />} />
+            <Route path="/events" element={<Events />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
