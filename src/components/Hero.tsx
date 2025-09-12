@@ -5,9 +5,9 @@ import Header from '@/components/Header';
 import { MessageCircle, Instagram, Facebook, Phone } from 'lucide-react';
 
 // Import your hero images here
-import heroImage1 from '@/assets/hero-image-1.jpg'; 
-import heroImage2 from '@/assets/hero-image-2.jpg';
-import heroImage3 from '@/assets/hero-image-3.jpg';
+import heroImage1 from '@/assets/hero-image-1.JPG'; 
+import heroImage2 from '@/assets/hero-image-2.JPG';
+import heroImage3 from '@/assets/hero-image-3.JPG';
 
 const carouselImages = [heroImage1, heroImage2, heroImage3];
 
