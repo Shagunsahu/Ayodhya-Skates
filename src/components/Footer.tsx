@@ -20,11 +20,12 @@ interface SocialLink {
 const Footer: React.FC = () => {
     const quickLinks: QuickLink[] = [
         { name: 'Home', href: '#home' },
-        { name: 'About Us', href: '#about' },
-        { name: 'Discipline', href: '#discipline' },
-        { name: 'Achievements', href: '#achievements' },
-        { name: 'Contact Us', href: '#contact' }, 
-        { name: 'Career', href: '#career' },
+        { name: 'About Us', href: '/About-us' },
+        { name: 'Discipline', href: '/discipline' },
+        { name: 'Achievements', href: '/achievements' },
+        { name: 'Gallery', href: '/gallery' },
+        { name: 'Contact Us', href: '/contact' }, 
+        { name: 'Career', href: '/career' },
     ];
 
     const socialLinks: SocialLink[] = [
