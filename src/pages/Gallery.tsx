@@ -14,11 +14,11 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 // Import all your gallery images here
-import galleryImage1 from '@/assets/gallery/image1.JPG'; 
-import galleryImage2 from '@/assets/gallery/image2.JPG';
-import galleryImage3 from '@/assets/gallery/image3.JPG';
-import galleryImage4 from '@/assets/gallery/image4.JPG';
-import newspaperPlaceholder from '@/assets/gallery/Newspaper/image1.JPG';
+import galleryImage1 from '@/assets/gallery/image1.jpg'; 
+import galleryImage2 from '@/assets/gallery/image2.jpg';
+import galleryImage3 from '@/assets/gallery/image3.jpg';
+import galleryImage4 from '@/assets/gallery/image4.jpg';
+import newspaperPlaceholder from '@/assets/gallery/Newspaper/image1.jpg';
 // ... add more images as needed
 
 // Define the type for the gallery images
